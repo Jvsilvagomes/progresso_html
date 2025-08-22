@@ -46,4 +46,9 @@ h2{
     align-items: center;
     border-radius: 8px;
     margin: 10px;
+    font-size: 4rem;
+}
+
+.justify-center {
+    justify-content: center;
 }
