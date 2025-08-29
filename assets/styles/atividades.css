@@ -1,0 +1,13 @@
+.retangulo {
+    width: 20%;
+    height: 200px;
+    background-image: linear-gradient(165deg,  #00BAB4 15% ,#2D2E47 100%);
+    margin: 0 auto 20px;
+    margin-top: 4%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 12px;
+    border: 2px solid black;
+}
+
