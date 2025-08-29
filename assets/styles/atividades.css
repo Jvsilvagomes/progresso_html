@@ -1,5 +1,5 @@
 .retangulo {
-    width: 20%;
+    width: 10%;
     height: 200px;
     background-image: linear-gradient(165deg,  #00BAB4 15% ,#2D2E47 100%);
     margin: 0 auto 20px;
@@ -11,3 +11,23 @@
     border: 2px solid black;
 }
 
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.verde {
+    background-color: #00BAB4;
+}
+
+.roxo {
+    background-color:blueviolet ;
+}  
