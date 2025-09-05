@@ -37,8 +37,9 @@
     height: 150px;
 }
 
-.verde {
+.verdee {
     background-color: green;
+
 }
 
 .roxo {
@@ -66,7 +67,14 @@
 
 .vermelho {
     background-color: red;
+    box-shadow: 0 0 20px #ff0000;
 }
 .amarelo {
     background-color: yellow;
+    box-shadow: 0 0 20px yellow;
+}
+
+.verde {
+    background-color: green;
+    box-shadow: 0 0 20px green;
 }
