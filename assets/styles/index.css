@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+.navegacao {
+    text-decoration: none;
+}
+
 body {
     font-family:"Josefin Sans", sans-serif ;
     padding: 20px;
