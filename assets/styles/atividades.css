@@ -50,6 +50,10 @@
     flex-direction:column;
     align-items: center;
     justify-content: center;
+    width: 220px;
+    background-color: #252535;
+    border-radius: 20px;
+    margin: 0 auto;
     height: 600px;
     gap: 30px;
 }
